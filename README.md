@@ -1,2 +1,3 @@
 # first-react-app
-First react app
+
+This is an example project that is built with AI.
