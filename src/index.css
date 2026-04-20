@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #13131f;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+  color: #e0e0e0;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100svh;
+}
